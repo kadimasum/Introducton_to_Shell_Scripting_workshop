@@ -1,6 +1,13 @@
 # Introducton To Shell Scripting Workshop
 ![EVENT_BANNER](/images/Introduction_to_shell_scripting.png)
 
+## Workshop Objectives
+1.  You should understand what shell scripting means 
+2.  You should understand the history of shell scripting 
+3.  You should be able to collect user input and use it in your script
+4.  You should be able to create an authentication program by the end of the workshop
+5.  You should be able to create a basic calculator program
+
 ## I have written some articles to help you understand the basics of shell scripting. You can access them through the following links:
 1. Create your first shell script: [Link](https://lnkd.in/dhY-uwxm)
 2. Variables: [Link](https://lnkd.in/dBr6gZxZ)
